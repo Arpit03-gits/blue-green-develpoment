@@ -1,5 +1,5 @@
 Project URL
-https://github.com/Arpit03-gits/blue-green-development
+https://github.com/Arpit03-gits/blue-green-deployment
 https://roadmap.sh/projects/blue-green-deployment
 
 
